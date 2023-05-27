@@ -2,6 +2,12 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+.h1 {
+  text-align: center;
+}
+.h2 {
+  color: blue;
+}
 .info {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -20,7 +26,7 @@
 }
 .form__btn {
   width: 150px;
-  height: 25px;
+  height: 35px;
   background: blue;
   color: white;
   border: none;
